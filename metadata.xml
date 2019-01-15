@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Highland Legends</dc:title>
+      <dc:creator>Thomas Dick Lauder (1784–1848)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2019-01-14</dc:publisher>
+      <dc:date>2019-01-14</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+This collection of Legends from Scotland was originally published in two volumes in 1837 under the title Highland Rambles and Long Legends to Shorten the Way. This is a 1880 reprint in one volume.
+Scans of this book are available from the Internet Archive (copy 1, 2; scans of the first edition: vol 1, vol 1; vol 2).
+
+</dc:rights>
+      <dc:subject>Folklore -- Scotland</dc:subject>
+      <dc:subject>Folklore</dc:subject>
+      <dc:subject>Scotland</dc:subject>
+      <dc:identifier>pg:58694</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
